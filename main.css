@@ -1,0 +1,19 @@
+section h2 {
+    color: blue;
+    font-size: 20px;
+}
+
+.container {
+    position: absolute;
+    background: white;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 200px;
+}
+
+.row {
+    display: block;
+    position: relative;
+    transform: 50%
+    transform: translate(-50%, -50%);
+}
