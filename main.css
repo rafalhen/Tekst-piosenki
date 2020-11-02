@@ -17,3 +17,8 @@ section h2 {
     transform: 50%
     transform: translate(-50%, -50%);
 }
+
+section p {
+    color:green;
+    font-size: 15px;
+}
